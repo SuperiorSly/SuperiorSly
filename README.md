@@ -1,86 +1,115 @@
-<h1 align="center">Hi, I'm Hasan 👋</h1>
+<!-- Replace YOUR_USERNAME with your GitHub username (4 places below) -->
 
-<p align="center">
-  <em>Computer Network Engineering student in Baghdad, interested in networks, cybersecurity, and AI.</em>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Hasanen&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Network%20Engineer%20%7C%20Cybersecurity%20%7C%20AI&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Hasanen banner" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/hasanensenan/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <img src="https://img.shields.io/badge/Location-Baghdad%2C%20Iraq-555555?style=for-the-badge" alt="Location">
-  <img src="https://img.shields.io/badge/English-C1%20(EF%20SET%2068%2F100)-2E8B57?style=for-the-badge" alt="English level">
-</p>
+<div align="center">
 
----
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=Computer+Network+Engineering+Student;Cybersecurity+Enthusiast+%F0%9F%94%90;Building+with+Python+%26+AI+%F0%9F%A4%96;Based+in+Baghdad%2C+Iraq+%F0%9F%87%AE%F0%9F%87%B6" alt="Typing animation" /></a>
 
-## 🧑‍💻 About me
+<br/>
 
-I'm studying **Computer Network Engineering** at the **University of Technology, Iraq** (2024 – present). I like understanding how networks work and how to keep them secure, and I enjoy using AI to build things that help people.
+<a href="https://www.linkedin.com/in/hasanensenan/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<img src="https://img.shields.io/badge/Cisco-Certified%20Learner-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
+<img src="https://img.shields.io/badge/English-C1%20Advanced-2E8B57?style=for-the-badge" alt="English C1" />
+<img src="https://img.shields.io/badge/Open%20To-Internships-FF6B6B?style=for-the-badge" alt="Open to internships" />
 
-- 🎓 Bachelor of Engineering, Computer Network Engineering (in progress)
-- 🏢 Summer trainee at **Zain Iraq** (Jul – Aug 2026): business strategy, project planning, marketing strategy, and the Business Model Canvas
-- 🤖 Took part in **NURAI 2026** with the **Sprout** team on an AI-powered assistive technology project for deaf-blind individuals
-- 🔐 Completed Cisco's **Introduction to Cybersecurity** and **Digital Awareness** (Sep 2026)
-- 🌱 Currently learning: Python, SQL, and cybersecurity fundamentals
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00d1ff&style=flat-square" alt="Profile views" />
+
+</div>
 
 ---
 
-## 🛠️ Skills
+## 👋 About Me
 
-**Programming and tools**
+```text
+┌──────────────────────────────────────────────────────────────┐
+│  👤 Name       : Hasanen                                     │
+│  🎓 Studying   : B.Eng. Computer Network Engineering         │
+│  🏫 University : University of Technology, Iraq (2024 - now) │
+│  🏢 Experience : Summer Trainee at Zain Iraq (2026)          │
+│  🌱 Learning   : Python, SQL, Cybersecurity, AI              │
+│  📍 Location   : Baghdad, Iraq                               │
+└──────────────────────────────────────────────────────────────┘
+```
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white)
-
-**Networking and security**
-
-![Cisco](https://img.shields.io/badge/Cisco%20Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Routing](https://img.shields.io/badge/Routing%20Protocols-RIP-555555?style=for-the-badge)
-![Security](https://img.shields.io/badge/Cybersecurity-Threat%20Detection-B22222?style=for-the-badge)
-
-**Professional**
-
-Project Management · Business Strategy · Risk Management · Presentation Skills · Teamwork · Problem Solving · Adaptability · Attention to Detail · Communication
+I'm a network engineering student who enjoys understanding how networks work and how to keep them secure. I also like using AI to build things that make people's lives easier.
 
 ---
 
-## 🏆 Certifications and achievements
+## 🚀 Highlights
+
+| | |
+|---|---|
+| 🏢 **Zain Iraq** | Summer trainee (Jul - Aug 2026). Worked on business strategy, project planning, marketing strategy, and the Business Model Canvas. |
+| 🤖 **NURAI 2026** | Part of team **Sprout**, working on an AI-powered assistive technology project for deaf-blind individuals. |
+| 🔐 **Cisco** | Completed *Introduction to Cybersecurity* and *Digital Awareness* (Sep 2026). |
+| 🗣️ **English** | EF SET score of 68/100 (C1 Advanced). |
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,html,git,github,linux,md&theme=dark" alt="Languages and tools" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/Cisco%20Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Networking" />
+<img src="https://img.shields.io/badge/Routing-RIP-555555?style=for-the-badge" alt="RIP routing" />
+<img src="https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white" alt="AutoCAD" />
+<img src="https://img.shields.io/badge/Threat%20Detection-B22222?style=for-the-badge" alt="Threat detection" />
+<img src="https://img.shields.io/badge/Network%20Security-0B3D91?style=for-the-badge" alt="Network security" />
+
+</div>
+
+**Soft skills:** Project Management · Business Strategy · Risk Management · Presentation · Teamwork · Problem Solving · Adaptability · Attention to Detail · Communication
+
+---
+
+## 🏆 Certifications
 
 | Certificate | Issuer | Date |
-|---|---|---|
-| Introduction to Cybersecurity | Cisco | Sep 2026 |
-| Digital Awareness | Cisco | Sep 2026 |
-| EF SET English Certificate (68/100, C1 Advanced) | EF SET | Aug 2026 |
-| NURAI 2026 – Certificate of Participation | NURAI 2026 | Aug 2026 |
+|:---|:---:|:---:|
+| 🔐 Introduction to Cybersecurity | Cisco | Sep 2026 |
+| 🌐 Digital Awareness | Cisco | Sep 2026 |
+| 🗣️ EF SET English Certificate (C1 Advanced) | EF SET | Aug 2026 |
+| 🤖 NURAI 2026 Certificate of Participation | NURAI 2026 | Aug 2026 |
 
 ---
 
-## 🚀 Projects
+## 📊 GitHub Stats
 
-> I'm adding my projects here as I publish them. Check my pinned repositories above.
+<div align="center">
 
-- **Sprout** (NURAI 2026): AI-powered assistive technology concept for deaf-blind individuals. *(Link coming soon)*
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top languages" />
 
----
-
-## 📊 GitHub stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
+</div>
 
 ---
 
-## 📫 Let's connect
+## 🎯 Currently
 
-I'm open to internships, study groups, and collaboration on networking, security, and AI projects.
+- 🔭 Working on my first public projects in Python and networking
+- 📚 Preparing for more Cisco networking and security certifications
+- 🤝 Looking for internships and people to collaborate with
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/hasanensenan/">LinkedIn</a>
-</p>
+---
 
-<p align="center"><sub>Thanks for stopping by ✨</sub></p>
+## 📫 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/hasanensenan/"><img src="https://img.shields.io/badge/Message%20me%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Message me on LinkedIn" /></a>
+
+<br/>
+
+<sub>Thanks for stopping by ✨</sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%" alt="Footer" />
